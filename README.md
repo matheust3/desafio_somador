@@ -20,12 +20,12 @@
  
 ![enter image description here](https://github.com/matheust3/desafio_somador/blob/master/img/3.png)
  
- 6. O resultado da função sera exibido na área ao lado do editor;
+ 6. O resultado da função será exibido na área ao lado do editor;
 
 <a name="index2"></a>
 **2. Instruções para testar o projeto**
 
- 1. List item siga as instruções de como rodar o projeto;
+ 1. Siga as instruções de como rodar o projeto;
  2. Altere o valor da variável `entrada`localizada na primeira linha do script;
  	
      Exemplo: `var entrada = 10;` ou `var entrada = 42;`
@@ -33,4 +33,4 @@
  ![enter image description here](https://github.com/matheust3/desafio_somador/blob/master/img/4.png)
  
  3. Click no botão 'Run';
- 4. O resultado da função sera exibido na área ao lado do editor;
+ 4. O resultado da função será exibido na área ao lado do editor;
