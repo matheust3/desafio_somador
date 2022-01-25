@@ -1,3 +1,5 @@
+var entrada = 11; // Substitua 11 por outro valor
+
 var soma = (num) => {
   var sum = 0;
   if (!Number.isInteger(num)) {
@@ -13,7 +15,5 @@ var soma = (num) => {
     return sum;
   }
 }
-
-var entrada = 11; // Substitua 11 por outro valor
 
 console.log(soma(entrada));
