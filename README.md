@@ -2,7 +2,6 @@
 
  1. Em um browser acesse o link: [https://www.programiz.com/javascript/online-compiler/](https://www.programiz.com/javascript/online-compiler/);
  2. Apague o conteúdo já existente no editor;
-
  ![enter image description here](https://github.com/matheust3/desafio_somador/blob/master/img/1.png)
  
  3. Copie e cole o conteúdo do aquivo [somador.js](https://github.com/matheust3/desafio_somador/blob/master/somador.js) no editor;
